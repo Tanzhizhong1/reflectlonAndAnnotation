@@ -1,0 +1,11 @@
+
+g	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Í®øĞüÿÿÿÿ8‚­£ä‰/
+T
+java:S1135"2Complete the task associated to this TODO comment.(•ÑÇØùÿÿÿÿ8‚­£ä‰/
+P
+java:S18749"3Remove this use of "newInstance"; it is deprecated.(¼Ç—Î8‚­£ä‰/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ùÒœÑüÿÿÿÿ8‚­£ä‰/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¾°ÿÿÿÿÿ8‚­£ä‰/
+Q
+java:S3740"/Provide the parametrized type for this generic.(¸Ãıûÿÿÿÿ8‚­£ä‰/

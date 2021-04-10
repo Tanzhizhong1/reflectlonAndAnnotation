@@ -1,0 +1,17 @@
+
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.( ŠÖÒşÿÿÿÿ8ÒòŸä‰/
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(«¤ÜÕ8ÒòŸä‰/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŒïÍ8ÒòŸä‰/
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(«¤ÜÕ8ÒòŸä‰/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(È·Ê±8ÒòŸä‰/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¦ñş8ÒòŸä‰/
+t
+java:S1450	"RRemove the "cal" field and declare it as a local variable in the relevant methods.(ÿÌáÊüÿÿÿÿ8ÒòŸä‰/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–å­úÿÿÿÿ8ÒòŸä‰/
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‚ëô¡şÿÿÿÿ8ÒòŸä‰/
+I
+java:S1068	"'Remove this unused "cal" private field.(ÿÌáÊüÿÿÿÿ8ÒòŸä‰/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Úº¢Øøÿÿÿÿ8ÒòŸä‰/
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(‚ëô¡şÿÿÿÿ8ÍíÎİ‹/
